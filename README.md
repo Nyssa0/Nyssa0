@@ -1,6 +1,6 @@
 <center>
 
-# 👋 Hello ~~world~~ <coders/> ! I'm Hassina aka Nyssa 👋
+# 👋 Hello ~~world~~ coders ! I'm Hassina aka Nyssa 👋
 <br />
 <center></center>
 <img alt="logo" src="https://static.wixstatic.com/media/51e30d_d51e9a7675b14fec9050c17c133eb4e4~mv2.gif" width="300px"/>
